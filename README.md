@@ -68,3 +68,5 @@ Gra polegająca na opiekowaniu się czymś co nazwane zostało Pou. Ze stworkiem
 karmienie czy zabawa polegająca na graniu w minigierki. W zamian za opiekę i zabawę ze stworkiem gracz otrzymuje monety za które ma
 możliwość wykupienia nowych elementów kosmetycznych.
      Link: https://play.google.com/store/apps/details?id=me.pou.app&hl=pl&gl=US
+
+Ze wszystkich gier jakie znajdują się na liście wydaje mi się że najprostrzym projektem będzie zrobienie gry pochodnej do subway surfers ponieważ gra działa w pętli i przyśpiesza w trakcie rozgrywki tylko wtedy gdy łapiemy bonusy.
